@@ -108,7 +108,7 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 <br/>
 
 <div align="center">
-  <h3 align="center">📊 Grafik Aktivitas</h3>
+  <h3 align="center">📊 GitHub Activity Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmelyaSofia&bg_color=ffffff&color=708090&line=fbc2eb&point=a6c1ee&area=true&hide_border=true&title_color=fbc2eb" alt="Activity Graph" width="100%" />
 </div>
 
