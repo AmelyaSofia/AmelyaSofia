@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD1DC,C4E0F9,FFF1BA&height=250&section=header&text=Hi!%20I'm%20Sofia&fontSize=50&fontColor=708090&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=708090" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD1DC,C4E0F9,FFF1BA&height=250&section=header&text=Hi!%20I%20am%20Sofia&fontSize=50&fontColor=708090&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=708090" alt="Header Banner" width="100%" />
 </div>
 
 <br/>
@@ -29,14 +29,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" align="center" /> Tentang Saya
 
-Halo! Selamat datang di profil GitHub saya. Saya sangat suka membuat karya dan eksplorasi hal baru di dunia teknologi.
+Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web secara menyeluruh (*Frontend* maupun *Backend*). Saya senang merancang tampilan digital yang menarik sekaligus membangun sistem di balik layarnya agar berjalan dengan tangguh.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" align="center" /> Saat ini saya sedang fokus mengerjakan **proyek-proyek kreatif**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" align="center" /> Saya sedang belajar **berbagai hal baru di dunia IT**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" align="center" /> Saya terbuka untuk berkolaborasi di **proyek open-source**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" align="center" /> Tanya saya tentang **Desain, Teknologi, atau hal seru lainnya!**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="20" height="20" align="center" /> Warna favorit saya adalah **perpaduan pastel: Pink, Biru, dan Kuning**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smile" width="20" height="20" align="center" /> Kata ganti (Pronouns): **She/Her**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" align="center" /> **Fokus saat ini:** Mengembangkan aplikasi web yang interaktif, responsif, dan terintegrasi dengan *database*.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" align="center" /> **Sedang mempelajari:** Bahasa pemrograman PHP, *framework* Laravel, dan perancangan *backend*.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" align="center" /> **Terbuka untuk kolaborasi:** Proyek *open-source*, pembuatan website dari nol, atau kolaborasi tim pengembang.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" align="center" /> **Mari berdiskusi tentang:** PHP, Laravel, HTML/CSS, JavaScript, atau alur logika sistem *backend*.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smile" width="20" height="20" align="center" /> Jangan ragu untuk menyapa melalui email! Saya selalu terbuka untuk berjejaring dan mencari pengalaman baru di industri teknologi.
 
 ---
 
@@ -44,7 +43,7 @@ Halo! Selamat datang di profil GitHub saya. Saya sangat suka membuat karya dan e
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,figma,vscode,git,github&theme=light" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,bootstrap,vscode,git,github&theme=light" alt="Skill Icons" />
   </a>
 </div>
 
