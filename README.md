@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FBC2EB&center=true&vCenter=true&width=600&lines=Mengubah+ide+menjadi+desain+yang+indah;Suka+banget+sama+warna-warna+pastel!;Coding+dengan+cinta+dan+kreativitas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FBC2EB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Web+Developer;Mengubah+ide+menjadi+aplikasi+nyata" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -51,13 +51,58 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" align="center" /> Statistik GitHub
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" align="center" /> GitHub Analytics
 
-> **Catatan:** Jika gambar grafik di bawah ini tidak muncul (error), itu karena profil GitHub Anda masih baru dan belum ada kode (repository) yang diunggah. Begitu Anda mulai *push* kodingan ke GitHub, grafiknya akan otomatis muncul kok!
+> **Catatan:** Jika gambar grafik di bawah ini belum muncul (error), itu karena profil GitHub Anda masih baru dan belum ada repository yang diunggah. Teruslah berkarya!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmelyaSofia&show_icons=true&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96&border_radius=10&border_width=2" alt="Amelya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmelyaSofia&theme=transparent&fire=fbc2eb&ring=a6c1ee&currStreakLabel=fbc2eb&currStreakNum=708090&sideNums=708090&sideLabels=708090&dates=708090&stroke=fdfd96" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">👩‍💻 Sofia (AmelyaSofia)</h3>
+        <p align="center"><i>Mengubah ide menjadi aplikasi nyata</i></p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Focus-Web_Dev-a6c1ee?style=for-the-badge&logoColor=white" alt="Focus" />
+          <img src="https://img.shields.io/badge/Status-Learning-fbc2eb?style=for-the-badge&logoColor=white" alt="Status" />
+          <img src="https://img.shields.io/badge/Open_For-Collab-fdfd96?style=for-the-badge&logoColor=black" alt="Collab" />
+        </div>
+        <br/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/-HTML-a6c1ee?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+          <img src="https://img.shields.io/badge/-CSS-fbc2eb?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+          <img src="https://img.shields.io/badge/-JavaScript-fdfd96?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/-PHP-a6c1ee?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/-Laravel-fbc2eb?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+          <img src="https://img.shields.io/badge/-MySQL-fdfd96?style=flat-square&logo=mysql&logoColor=black" alt="MySQL" />
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Coding Momentum</h3>
+        <p align="center"><i>Consistent learning, building, and improving.</i></p>
+        <div align="center">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=a6c1ee&center=true&vCenter=true&width=200&lines=Active;Creative;Passionate" alt="Active" />
+          <p><small>Open source • Web Projects • Backend Design</small></p>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,fbc2eb,a6c1ee,fdfd96&height=8&width=250" alt="progress bar" />
+          <br/>
+          <code>Learn&nbsp;&nbsp;&nbsp;&nbsp;Build&nbsp;&nbsp;&nbsp;&nbsp;Ship&nbsp;&nbsp;&nbsp;&nbsp;Repeat</code>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h3 align="center">📈 Most Used Languages & Overall Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmelyaSofia&layout=compact&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96&border_radius=10&border_width=2" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AmelyaSofia&show_icons=true&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96&border_radius=10&border_width=2&hide_title=true&hide_rank=true" alt="GitHub Stats" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmelyaSofia&theme=transparent&fire=fbc2eb&ring=a6c1ee&currStreakLabel=fbc2eb&currStreakNum=708090&sideNums=708090&sideLabels=708090&dates=708090&stroke=fdfd96" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
