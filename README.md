@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I%20am%20Sofia&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,fbc2eb,a6c1ee,fdfd96&height=250&section=header&text=Hi!%20I%20am%20Sofia&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
 <br/>
@@ -64,5 +64,5 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,fdfd96,a6c1ee,fbc2eb&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
