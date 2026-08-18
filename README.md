@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD1DC,C4E0F9,FFF1BA&height=250&section=header&text=Hi!%20I%20am%20Sofia&fontSize=50&fontColor=708090&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=708090" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi!%20I%20am%20Sofia&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Tech%20Enthusiast%20%26%20Creative%20Thinker&descSize=20&descColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FBC2EB&center=true&vCenter=true&width=600&lines=Mengubah+ide+menjadi+desain+yang+indah;Suka+banget+sama+warna-warna+pastel!;Coding+dengan+cinta+dan+kreativitas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FBC2EB&center=true&vCenter=true&width=600&lines=Mengubah+ide+menjadi+desain+yang+indah;Suka+banget+sama+warna-warna+pastel!;Coding+dengan+cinta+dan+kreativitas" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -64,5 +64,5 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFF1BA,C4E0F9,FFD1DC&height=100&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
