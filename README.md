@@ -53,8 +53,6 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" align="center" /> GitHub Analytics
 
-> **Catatan:** Jika gambar grafik di bawah ini belum muncul (error), itu karena profil GitHub Anda masih baru dan belum ada repository yang diunggah. Teruslah berkarya!
-
 <div align="center">
   <table>
     <tr>
@@ -96,20 +94,13 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
     <tr>
       <td align="center">
         <h3 align="center">📈 Most Used Languages & Overall Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmelyaSofia&layout=compact&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=AmelyaSofia&show_icons=true&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmelyaSofia&layout=compact&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="Top Langs" />
+        <img src="https://github-stats-extended.vercel.app/api?username=AmelyaSofia&show_icons=true&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="GitHub Stats" />
         <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmelyaSofia&theme=transparent&fire=fbc2eb&ring=a6c1ee&currStreakLabel=fbc2eb&currStreakNum=708090&sideNums=708090&sideLabels=708090&dates=708090&stroke=fdfd96" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AmelyaSofia&theme=transparent&fire=fbc2eb&ring=a6c1ee&currStreakLabel=fbc2eb&currStreakNum=708090&sideNums=708090&sideLabels=708090&dates=708090&stroke=fdfd96" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3 align="center">📊 GitHub Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmelyaSofia&bg_color=ffffff&color=708090&line=fbc2eb&point=a6c1ee&area=true&hide_border=true&title_color=fbc2eb" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
