@@ -51,7 +51,7 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" align="center" /> GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" align="center" /> GitHub Overview
 
 <div align="center">
   <table>
@@ -92,12 +92,13 @@ Halo! Saya Sofia, seorang yang sangat antusias dengan pengembangan aplikasi web 
 
   <table width="100%">
     <tr>
-      <td align="center">
-        <h3 align="center">📈 Most Used Languages & Overall Stats</h3>
+      <td width="50%" align="center" valign="middle">
+        <h3 align="center">💻 Most Used Languages</h3>
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmelyaSofia&layout=compact&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="Top Langs" />
-        <img src="https://github-stats-extended.vercel.app/api?username=AmelyaSofia&show_icons=true&bg_color=ffffff&title_color=fbc2eb&text_color=708090&icon_color=a6c1ee&border_color=fdfd96" alt="GitHub Stats" />
-        <br/><br/>
-        <img src="https://streak-stats.demolab.com/?user=AmelyaSofia&theme=transparent&fire=fbc2eb&ring=a6c1ee&currStreakLabel=fbc2eb&currStreakNum=708090&sideNums=708090&sideLabels=708090&dates=708090&stroke=fdfd96" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <h3 align="center">💡 Dev Mindset & Quotes</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2500&color=fbc2eb&center=true&vCenter=true&width=380&height=120&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Dev Mindset" />
       </td>
     </tr>
   </table>
